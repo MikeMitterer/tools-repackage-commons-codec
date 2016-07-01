@@ -7,7 +7,7 @@ der Packagename geändert.
 
 ```java
     // Von:
-        import org.apache.commons.codec.binary.Base64
+        import org.apache.commons.codec.binary.Base64;
         
     // Nach:        
         import android.org.apache.commons.codec.binary.Base64;

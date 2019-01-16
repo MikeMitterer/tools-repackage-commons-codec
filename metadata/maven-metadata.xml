@@ -3,9 +3,9 @@
   <groupId>repackaged.for.android</groupId>
   <artifactId>commons-codec</artifactId>
   <versioning>
-    <release>1.10</release>
+    <release>1.10-repa</release>
     <versions>
-      <version>1.10</version>
+      <version>1.10-repa</version>
     </versions>
     <lastUpdated>20160630132810</lastUpdated>
   </versioning>

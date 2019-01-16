@@ -28,3 +28,13 @@ Dependencies in build.gradle
     }
         
 Weitere Infos: [Commons Codec on Android](http://blog.osom.info/2015/04/commons-codec-on-android.html)
+
+## Artifactory (seit 3.1.2018)
+> https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory
+
+    # Installieren des CMD-Line interfaces
+    brew install jfrog-cli-go
+
+ACHTUNG: cmdline-Interface gibt es nur bei der Pro-Version
+
+Details zur Installation in Artifactory stehen im `genjar.sh`
